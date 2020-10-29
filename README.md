@@ -2,7 +2,7 @@
 #### Learner and Web Developer
 A curious JavaScript developer from Bangladesh
 
-## [My Resume](https://drive.google.com/drive/folders/1D9rIym7bsN6Ayw1V_h2zwrHY0qYWloQW?usp=sharing)
+## [My Resume](https://drive.google.com/file/d/1QHfgY_p8e7_NPitjyjS_RtXUw8d7ZJIq/view?usp=sharing)
 
 
 Skills: REACT / JS / HTML / CSS/React Router/Node JS/MongoDB/Material UI/React Bootstrap/Bootstrap/Visual Studio Code
