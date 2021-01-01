@@ -2,7 +2,7 @@
 #### Learner and Web Developer
 A curious JavaScript developer from Bangladesh
 
-## [My Resume](https://drive.google.com/file/d/1QHfgY_p8e7_NPitjyjS_RtXUw8d7ZJIq/view?usp=sharing)
+## [My Resume](https://drive.google.com/file/d/13l9mK1U75WGF-UGWGdcJXPbFbH2iy9H-/view?usp=sharing)
 
 
 Skills: REACT / JS / HTML / CSS/React Router/Node JS/MongoDB/Material UI/React Bootstrap/Bootstrap/Visual Studio Code
@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS/React Router/Node JS/MongoDB/Material UI/React B
 - 🌱 I’m currently learning MERN 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/marjia-anee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marjia-zaman-212459115//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/marjia.anee/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/marjia_anee//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/marjia-anee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marjia-zaman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/marjia.anee/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/marjia_anee/)  
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
